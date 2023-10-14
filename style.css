@@ -25,7 +25,7 @@ header, section, footer {
 header {
   height: 100vh;
   padding: 36px 100px;
-  background-image: url(https://drive.google.com/file/d/1bHVBoISdXKqIDAvp7kD64H4HI2CtSYRT/view?pli=1);
+  background-image: url(img/photo.jpg);
   background-position: right;
   background-size: contain;
   background-repeat: no-repeat;
